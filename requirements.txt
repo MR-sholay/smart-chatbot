@@ -1,5 +1,5 @@
-spacy
 flask
 chatterbot
 chatterbot_corpus
 nltk
+spacy
