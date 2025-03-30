@@ -1,0 +1,6 @@
+Flask
+chatterbot
+chatterbot_corpus
+nltk
+sqlite3
+gunicorn
